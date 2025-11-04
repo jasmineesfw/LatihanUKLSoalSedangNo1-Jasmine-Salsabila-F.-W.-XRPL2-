@@ -23,5 +23,5 @@ Berikut adalah kode programnya:
         System.out.println("Faktorial dari "+ bilanganFaktorial +" adalah "+ hasil);
 
         inputan.close();
+        }
     }
-}
