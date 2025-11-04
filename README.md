@@ -2,9 +2,9 @@
 Fungsi dari program ini adalah untuk mengetahui faktorial dari bilangan bulat positif. Lalu cara kerjanya adalah dengan cara menginputkan bilangan oleh user.
 
 Berikut adalah kode programnya:
-
-import java.util.Scanner;
-public class SoalSedangNo1 {
+    
+    import java.util.Scanner;
+    public class SoalSedangNo1 {
     
     static long faktorial(int n) {
         long hasil = 1;
